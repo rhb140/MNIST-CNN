@@ -96,12 +96,12 @@ plt.show()
 Evaluate the accuracy and loss of the model using the test dataset which is unseen data. Use plt to plot an accuracy and a loss graph.
 
 ### Accuracy Graph
-![Accuracy Graph](https://github.com/rhb140/MNIST-CNN/blob/main/mnistNNImage6.jpg?raw=true)
+![Accuracy Graph](https://github.com/rhb140/MNIST-CNN/blob/main/MNIST_NN_Accuracy_Graph.jpg?raw=true)
 
 This graph shows both the training and validation accuracy over the epochs.
 
 ### Loss Graph
-![Loss Graph](https://github.com/rhb140/MNIST-CNN/blob/main/mnistNNImage7.jpg?raw=true)
+![Loss Graph](https://github.com/rhb140/MNIST-CNN/blob/main/MNIST_NN_Loss_Graph.jpg?raw=true)
 
 This graph shows both the training and validation loss over the epochs.
 
